@@ -1,0 +1,37 @@
+
+.tab,.td{
+    background: #1555d1;
+    width: 840px;
+    height: 110px;
+    border: 3px solid;
+    text-align: center;
+}
+
+span{
+    font-size:x-large;
+    color: aliceblue;
+    font-weight: bold;
+    font-size:30px;
+}
+
+
+.highlightmeJ {
+    background-image: linear-gradient(to right, #f1c01f, #f1c01f, #f1c01f);
+    border-radius: 12px;
+    padding: 6px 9px;
+}
+
+.highlightmeR{
+    background-image: linear-gradient(to right, #e81818, #d12718, #d52815);
+    border-radius: 12px;
+    padding: 6px 9px;
+}
+
+.msgV{
+    color:green;
+    text-align: center;
+}
+.msgR{
+    color: #e81818;
+    text-align: center;
+}
